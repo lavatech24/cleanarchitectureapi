@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Deployment\EcoCatalyst\EcoCatalystApiGIT\EcoCatalyst.Api\bin\Release\net9.0\publish\</_PublishTargetUrl>
+    <History>True|2025-09-14T10:31:52.4775856Z||;True|2025-09-03T09:11:09.2975542-05:00||;True|2025-09-03T04:13:51.3333171-05:00||;False|2025-09-03T04:13:17.0220282-05:00||;True|2025-09-01T23:05:38.6713108-05:00||;False|2025-09-01T23:05:24.8595992-05:00||;True|2025-08-22T13:35:04.5191496-05:00||;True|2025-08-22T13:16:23.0587515-05:00||;True|2025-08-22T13:03:07.2972844-05:00||;True|2025-08-22T12:30:38.1822704-05:00||;True|2025-08-22T12:03:55.1490582-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
